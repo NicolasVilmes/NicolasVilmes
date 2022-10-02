@@ -30,9 +30,9 @@
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=NicolasVilmes&custom_title=Nicolas%20activity%20graph&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <section display="flex-inline">
- <img aling="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=NicolasVilmes&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img aling="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolasVilmes&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVilmes&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVilmes&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
   </br>
   </section>
 
