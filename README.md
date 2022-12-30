@@ -21,13 +21,18 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
- ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) <!--
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) -->
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-181717?style=flat-square&logo=Vite)
+
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=NicolasVilmes&custom_title=Nicolas%20activity%20graph&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <section display="flex-inline">
  <img aling="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=NicolasVilmes&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -38,23 +43,13 @@
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/NicolasVilmes/">
+<a href="https://github.com/NicolasVilmes/Starbucks01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasVilmes&repo=starbucks01&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="StarBucks01" />
 </a>
 
-## 
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: America/Brazil
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
+<a href="https://github.com/NicolasVilmes/financeiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasVilmes&repo=financeiro&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Financeiro" />
+</a>
 
 
 <p align="center">
