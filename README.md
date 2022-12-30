@@ -43,15 +43,29 @@
 
 ## 🗂️ Highlight Projects
 
+<section display="flex-inline">
+  
 <a href="https://github.com/NicolasVilmes/Starbucks01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasVilmes&repo=starbucks01&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="StarBucks01" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasVilmes&repo=starbucks01&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="StarBucks01" />
 </a>
 
 <a href="https://github.com/NicolasVilmes/financeiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasVilmes&repo=financeiro&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Financeiro" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasVilmes&repo=financeiro&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Financeiro" />
 </a>
+  </section>
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
+## 📈 Activity
 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NicolasVilmes&bg_color=0d1117&color=46abdc&line=46abd2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
